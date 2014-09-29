@@ -5,8 +5,6 @@ public class scanner {
 
 
 		System.out.println("test");
-		
-		System.out.println("Tilføjelse af 2");
 
 	}
 
